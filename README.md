@@ -34,7 +34,7 @@ It suggests commands as you type, based on command history.
     git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
     ```
 
-2. Add the plugin to the list of plugins for Oh My Zsh to load:
+2. Add the [plugin](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins) to the list of plugins for Oh My Zsh to load:
 
     ```sh
     plugins=(zsh-autosuggestions)
